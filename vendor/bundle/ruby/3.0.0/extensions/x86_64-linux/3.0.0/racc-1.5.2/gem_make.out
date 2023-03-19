@@ -1,0 +1,19 @@
+current directory: /home/dan/Development/phase4/phase-4-validation-messages-and-error-handling/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+/home/dan/.rbenv/versions/3.0.0/bin/ruby -I /home/dan/.rbenv/versions/3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/dan/Development/phase4/phase-4-validation-messages-and-error-handling/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230319-58114-h2ntyg sitelibdir\=./.gem.20230319-58114-h2ntyg clean
+
+current directory: /home/dan/Development/phase4/phase-4-validation-messages-and-error-handling/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230319-58114-h2ntyg sitelibdir\=./.gem.20230319-58114-h2ntyg
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/dan/Development/phase4/phase-4-validation-messages-and-error-handling/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230319-58114-h2ntyg sitelibdir\=./.gem.20230319-58114-h2ntyg install
+/bin/install -c -m 0755 cparse.so ./.gem.20230319-58114-h2ntyg/racc
+
+current directory: /home/dan/Development/phase4/phase-4-validation-messages-and-error-handling/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230319-58114-h2ntyg sitelibdir\=./.gem.20230319-58114-h2ntyg clean
